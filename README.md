@@ -9,7 +9,7 @@
 ### Languages and Tools:
 
 <br/>
-<img align="left" alt="PHP" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg"/>
+<img align="left" alt="PHP" width="36px" src="https://miro.medium.com/max/4096/1*Y1hq9sHXG26Fyhys81z8rg.png"/>
 <img align="left" alt="Laravel" width="24px" src="https://seeklogo.com/images/L/laravel-logo-9B01588B1F-seeklogo.com.png"/>
 <img align="left" alt="PhpStorme" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Phpstorm.png/300px-Phpstorm.png"/>
 <img align="left" alt="Vue" width="24px" src="https://lilly021.com/wp-content/uploads/2019/03/1200px-Vue.js_Logo_2.svg.png"/>
@@ -30,10 +30,8 @@
 <br />
 
 ---
-<details>
-  <summary>Github Stats</summary>
-  <img align="left" alt="DraganUD's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DraganUS&show_icons=true&hide_border=true" />
-</details>
+<summary>Github Stats</summary>
+<img align="left" alt="DraganUD's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DraganUS&show_icons=true&hide_border=true" />
 
 [instagram]: https://www.instagram.com/draganusic
 [linkedin]: https://www.linkedin.com/in/draganusic
