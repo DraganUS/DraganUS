@@ -36,7 +36,7 @@
 align="left"
 alt="DraganUD's Github Stats"
  src="https://github-readme-stats.codestackr.vercel.app/api?username=DraganUS&
- show_icons=true&hide=contribs,
+ show_icons=true&hide=contribs,issues&
  hide_border=true&theme=tokyonight
  "/>
 
