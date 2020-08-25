@@ -39,11 +39,11 @@ alt="DraganUD's Github Stats"src="https://github-readme-stats.codestackr.vercel.
 
   <br />
 
-###
+### 🦾 👨‍🚀
  
-  <br />
+<summary>Most USed Languages</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DraganUS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [instagram]: https://www.instagram.com/draganusic
 [linkedin]: https://www.linkedin.com/in/draganusic
