@@ -9,7 +9,7 @@
 ### Languages and Tools:
 
 <br/>
-<img align="left" alt="PHP" width="26px" src="https://banner2.cleanpng.com/20180724/bhb/kisspng-logo-php-html-5b57c278415ab9.8092346315324780722677.jpg"/>
+<img align="left" alt="PHP" width="36px" src="https://banner2.cleanpng.com/20180724/bhb/kisspng-logo-php-html-5b57c278415ab9.8092346315324780722677.jpg"/>
 <img align="left" alt="Laravel" width="24px" src="https://seeklogo.com/images/L/laravel-logo-9B01588B1F-seeklogo.com.png"/>
 <img align="left" alt="PhpStorme" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Phpstorm.png/300px-Phpstorm.png"/>
 <img align="left" alt="Vue" width="24px" src="https://lilly021.com/wp-content/uploads/2019/03/1200px-Vue.js_Logo_2.svg.png"/>
