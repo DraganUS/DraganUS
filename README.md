@@ -31,6 +31,7 @@
 <br />
 
 ---
+
 <summary>Github Stats</summary>
 <img 
 align="left"
@@ -39,8 +40,8 @@ alt="DraganUD's Github Stats"src="https://github-readme-stats.codestackr.vercel.
   <br />
   <br />
   <br />
-
-<summary>Most Used Languages</summary>
+  <br />
+  <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
