@@ -44,9 +44,9 @@ alt="DraganUD's Github Stats"src="https://github-readme-stats.codestackr.vercel.
  
   <br />
    
-<summary>Most Used Languages</summary>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DraganUS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<summary>Most Used Languages</summary>
 
 [instagram]: https://www.instagram.com/draganusic
 [linkedin]: https://www.linkedin.com/in/draganusic
