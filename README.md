@@ -32,10 +32,6 @@
 
 ---
 
-<summary></summary>
-<img 
-align="center" alt="DraganUD's Github Stats"src="https://github-readme-stats.codestackr.vercel.app/api?username=DraganUS&show_icons=true&hide_border=true&theme=tokyonight"/>
-<br />
 
 <br />
 
