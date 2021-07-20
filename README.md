@@ -11,6 +11,7 @@
 <br/>
 <img src="" alt="">
 <img align="left" alt="Laravel" width="24px" src="https://seeklogo.com/images/L/laravel-logo-9B01588B1F-seeklogo.com.png"/>
+<img align="left" alt="Tailwind" width="46px" src="https://miro.medium.com/max/4096https://www.nicepng.com/png/detail/400-4004661_deep-analysis-tailwind-logo.png/1*Y1hq9sHXG26Fyhys81z8rg.png"/>
 <img align="left" alt="PHP" width="46px" src="https://miro.medium.com/max/4096/1*Y1hq9sHXG26Fyhys81z8rg.png"/>
 <img align="left" alt="Vue" width="24px" src="https://lilly021.com/wp-content/uploads/2019/03/1200px-Vue.js_Logo_2.svg.png"/>
 <img align="left" alt="Vuetofy" width="24px" src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png"/>
