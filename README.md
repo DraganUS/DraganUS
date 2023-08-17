@@ -12,7 +12,6 @@
 <img src="" alt="">
 <img align="left" alt="Laravel" width="24px" src="https://seeklogo.com/images/L/laravel-logo-9B01588B1F-seeklogo.com.png"/>
 <img align="left" alt="PHP" width="46px" src="https://miro.medium.com/max/4096/1*Y1hq9sHXG26Fyhys81z8rg.png"/>
-<img align="left" alt="Vue" width="24px" src="https://lilly021.com/wp-content/uploads/2019/03/1200px-Vue.js_Logo_2.svg.png"/>
 <img align="left" alt="Vuetofy" width="24px" src="https://seeklogo.com/images/V/vuetify-logo-3BCF73C928-seeklogo.com.png"/>
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
